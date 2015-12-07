@@ -5,5 +5,5 @@
 [https://github.com/daijiale/Party-Shaking](https://github.com/daijiale/Party-Shaking)
 1. **随口记** 语音记帐.     
 [https://github.com/linmp4/quickmark/tree/%E9%9A%8F%E5%8F%A3%E8%AE%B0%EF%BC%88ticwear%EF%BC%89](https://github.com/linmp4/quickmark/tree/%E9%9A%8F%E5%8F%A3%E8%AE%B0%EF%BC%88ticwear%EF%BC%89)
-1. **小K插座** 由2个高三党开发的小K插座手表客户端.
+1. **小K插座** 由2个高三党开发的小K插座手表客户端.     
 [https://github.com/liangchenhe55/konkeWatch](https://github.com/liangchenhe55/konkeWatch)
